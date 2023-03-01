@@ -1,0 +1,15 @@
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\Calculadora_funcao.csproj.AssemblyReference.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\Calculadora_funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\Calculadora_funcao.AssemblyInfoInputs.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\Calculadora_funcao.AssemblyInfo.cs
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\Calculadora_funcao.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\bin\Debug\net6.0\Calculadora_funcao.exe
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\bin\Debug\net6.0\Calculadora_funcao.deps.json
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\bin\Debug\net6.0\Calculadora_funcao.runtimeconfig.json
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\bin\Debug\net6.0\Calculadora_funcao.dll
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\bin\Debug\net6.0\Calculadora_funcao.pdb
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\Calculadora_funcao.dll
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\refint\Calculadora_funcao.dll
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\Calculadora_funcao.pdb
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\Calculadora_funcao.genruntimeconfig.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Calculadora_funcao\Calculadora_funcao\obj\Debug\net6.0\ref\Calculadora_funcao.dll
